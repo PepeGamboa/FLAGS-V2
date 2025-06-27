@@ -54,7 +54,7 @@ const countries: Country[] = [
         year: "1605-1615",
         genre: "Novela",
         summary:
-          "Don Quijote de la Mancha es considerada la primera novela moderna y una de las obras más importantes de la literatura universal. Narra las aventuras de Alonso Quixano, un hidalgo que enloquece leyendo libros de caballerías y decide convertirse en caballero andante bajo el nombre de Don Quijote. Acompañado por su fiel escudero Sancho Panza, emprende aventuras para defender a los desvalidos y luchar contra las injusticias.",
+          "Don Quijote de la Mancha es considerada la primera novela moderna y una de las obras más importantes de la literatura universal. Narra las aventuras de Alonso Quixano, un hidalgo que enloquece leyendo libros de caballerías y decide convertirse en caballero andante bajo el nombre de Don Quijote. Acompañado por su fiel escudero Sancho Panza, emprende aventuras para defender a los desvalidos y luchar contra las injusticias. La obra es una sátira de las novelas de caballerías, pero también una profunda reflexión sobre la realidad y la fantasía, los ideales y la vida práctica. A través del contraste entre el idealista Don Quijote y el pragmático Sancho Panza, Cervantes explora temas universales como la locura y la cordura, la justicia, el amor y la muerte. La novela presenta episodios memorables como la lucha contra los molinos de viento, que Don Quijote confunde con gigantes, simbolizando la lucha eterna entre los ideales y la realidad. La obra influyó profundamente en el desarrollo de la novela moderna y sigue siendo relevante por su exploración de la condición humana y la naturaleza de la verdad.",
         image: "/placeholder.svg?height=400&width=600",
         themes: ["Idealismo vs Realismo", "Locura y Cordura", "Justicia", "Amistad", "Sátira Social"],
       },
@@ -80,7 +80,7 @@ const countries: Country[] = [
         year: "1808-1832",
         genre: "Drama",
         summary:
-          "Fausto, de Goethe, narra la historia de un sabio insatisfecho que, a través de un pacto con el diablo Mefistófeles, busca conocimiento y placeres terrenales, vendiendo su alma a cambio de juventud y experiencias ilimitadas. La obra, dividida en dos partes, explora la búsqueda de sentido en la vida, la lucha entre el bien y el mal, y la naturaleza del alma humana, culminando en una compleja reflexión sobre la redención y la trascendencia. El doctor Fausto, un erudito consumido por su sed de conocimiento, se siente frustrado por los límites de la ciencia y la filosofía. A través de sus aventuras, Fausto experimenta el amor con Margarita (Gretchen), una joven inocente que se convierte en víctima de su pasión. En la segunda parte, Fausto continúa su búsqueda de conocimiento y poder, participando en eventos históricos y realizando grandes obras para la humanidad. Finalmente, a pesar de sus pecados y errores, Fausto es redimido y salvado por la gracia divina.",
+          "Fausto, de Goethe, narra la historia de un sabio insatisfecho que, a través de un pacto con el diablo Mefistófeles, busca conocimiento y placeres terrenales, vendiendo su alma a cambio de juventud y experiencias ilimitadas. La obra, dividida en dos partes, explora la búsqueda de sentido en la vida, la lucha entre el bien y el mal, y la naturaleza del alma humana, culminando en una compleja reflexión sobre la redención y la trascendencia. El doctor Fausto, un erudito consumido por su sed de conocimiento, se siente frustrado por los límites de la ciencia y la filosofía. A través de sus aventuras, Fausto experimenta el amor con Margarita (Gretchen), una joven inocente que se convierte en víctima de su pasión. En la segunda parte, Fausto continúa su búsqueda de conocimiento y poder, participando en eventos históricos y realizando grandes obras para la humanidad. La obra culmina mostrando la posibilidad de redención incluso para aquellos que han caído profundamente. Finalmente, a pesar de sus pecados y errores, Fausto es redimido y salvado por la gracia divina.",
         image: "/fausto-illustration.png",
         themes: ["Pacto Diabólico", "Búsqueda del Conocimiento", "Amor y Tragedia", "Redención", "Naturaleza Humana"],
       },
@@ -106,7 +106,7 @@ const countries: Country[] = [
         year: "1600-1601",
         genre: "Tragedia",
         summary:
-          "Hamlet es la tragedia más famosa de Shakespeare, que narra la historia del príncipe Hamlet de Dinamarca, quien busca vengar la muerte de su padre tras ser visitado por su fantasma. La obra explora temas profundos como la venganza, la locura, la muerte, la traición y la corrupción moral.",
+          "Hamlet es la tragedia más famosa de Shakespeare, que narra la historia del príncipe Hamlet de Dinamarca, quien busca vengar la muerte de su padre tras ser visitado por su fantasma. La obra explora temas profundos como la venganza, la locura, la muerte, la traición y la corrupción moral. Hamlet finge estar loco mientras planea su venganza contra su tío Claudio, quien ha asesinado a su padre y se ha casado con su madre Gertrudis. La obra incluye algunos de los monólogos más famosos de la literatura, incluyendo 'Ser o no ser', donde Hamlet reflexiona sobre la vida y la muerte. La complejidad psicológica del protagonista, sus dudas existenciales y su lucha interna entre la acción y la contemplación han convertido a Hamlet en uno de los personajes más estudiados de la literatura. La tragedia culmina en una serie de muertes que incluyen a Hamlet, Claudio, Gertrudis y Laertes, dejando solo a Horacio para contar la historia. La obra es una meditación profunda sobre la naturaleza humana, el poder, la corrupción y la inevitabilidad del destino.",
         image: "/placeholder.svg?height=400&width=600",
         themes: ["Venganza", "Locura", "Muerte", "Traición", "Dilema Moral"],
       },
@@ -133,7 +133,7 @@ const countries: Country[] = [
         year: "1862",
         genre: "Novela",
         summary:
-          "Los Miserables es una monumental novela que retrata la Francia del siglo XIX a través de la historia de Jean Valjean, un ex-convicto que busca la redención. La obra sigue las vidas entrelazadas de varios personajes y utiliza estas historias personales para explorar temas de justicia social, pobreza, revolución y redención.",
+          "Los Miserables es una monumental novela que retrata la Francia del siglo XIX a través de la historia de Jean Valjean, un ex-convicto que busca la redención. La obra sigue las vidas entrelazadas de varios personajes, incluyendo a Fantine, una madre soltera; Cosette, su hija; Marius, un joven revolucionario; y Javert, el implacable inspector de policía. Hugo utiliza estas historias personales para explorar temas de justicia social, pobreza, revolución y redención. La novela culmina durante los levantamientos de París de 1832, donde los personajes enfrentan sus destinos. Es una obra que combina el drama personal con la crítica social, mostrando tanto la miseria humana como la capacidad de transformación y esperanza. Hugo presenta un panorama épico de la sociedad francesa, desde los salones aristocráticos hasta las alcantarillas de París, creando un fresco social de extraordinaria amplitud. La transformación de Jean Valjean de criminal a santo secular representa la posibilidad de redención humana, mientras que la obsesión de Javert con la ley ilustra los peligros del fanatismo moral.",
         image: "/placeholder.svg?height=400&width=600",
         themes: ["Justicia Social", "Redención", "Revolución", "Pobreza", "Amor y Sacrificio"],
       },
@@ -159,7 +159,7 @@ const countries: Country[] = [
         year: "1944",
         genre: "Cuentos",
         summary:
-          "Ficciones es una colección de cuentos que revolucionó la literatura del siglo XX con su exploración de temas como el infinito, los laberintos, los espejos y la naturaleza de la realidad. Borges crea mundos fantásticos que desafían la lógica convencional.",
+          "Ficciones es una colección de cuentos que revolucionó la literatura del siglo XX con su exploración de temas como el infinito, los laberintos, los espejos y la naturaleza de la realidad. Borges crea mundos fantásticos que desafían la lógica convencional: bibliotecas infinitas, laberintos temporales, enciclopedias de mundos imaginarios y personajes que existen en múltiples realidades. Cuentos como 'La Biblioteca de Babel', 'El jardín de senderos que se bifurcan' y 'Pierre Menard, autor del Quijote' han influenciado profundamente la literatura contemporánea. La obra combina erudición, filosofía y fantasía para crear una literatura intelectual única que explora los límites del conocimiento humano y la naturaleza de la ficción misma. Borges utiliza la metaficción para cuestionar las fronteras entre realidad y literatura, creando textos que son tanto cuentos como ensayos filosóficos. Su estilo conciso y preciso, combinado con una imaginación desbordante, estableció nuevos paradigmas para la narrativa contemporánea y anticipó muchas de las preocupaciones de la literatura posmoderna.",
         image: "/placeholder.svg?height=400&width=600",
         themes: ["Infinito", "Laberintos", "Realidad y Ficción", "Tiempo", "Conocimiento"],
       },
@@ -474,30 +474,54 @@ pointer-events: none;
 z-index: 1;
 }
 
-/* OVERLAY EXPANDIDO PARA OBRA MAESTRA */
+/* OVERLAY EXPANDIDO CON PROPORCIÓN ÁUREA */
 .masterwork-overlay {
-position: fixed;
-top: 0;
-left: 0;
-right: 0;
-bottom: 0;
-background: rgba(0, 0, 0, 0.9);
-backdrop-filter: blur(10px);
-z-index: 1000;
-display: flex;
-align-items: center;
-justify-content: center;
-padding: 2rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.9);
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
 }
 
 .masterwork-content {
-background: rgba(255, 255, 255, 0.98);
-border-radius: 20px;
-max-width: 90vw;
-max-height: 90vh;
-overflow-y: auto;
-position: relative;
-box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+  background: rgba(255, 255, 255, 0.98);
+  border-radius: 20px;
+  width: 90vw;
+  height: 90vh; /* Altura fija basada en viewport */
+  max-width: 1400px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+}
+
+.masterwork-header {
+  height: 38.2vh; /* Proporción áurea: parte menor (38.2%) */
+  min-height: 200px;
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+  border-radius: 20px 20px 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.masterwork-body {
+  height: 61.8vh; /* Proporción áurea: parte mayor (61.8%) */
+  min-height: 300px;
+  overflow-y: auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 0 0 20px 20px;
 }
 
 .force-scroll {
@@ -590,91 +614,120 @@ backdrop-filter: blur(10px);
       {expandedCountry && (
         <div className="masterwork-overlay" onClick={closeExpanded}>
           <div className="masterwork-content" onClick={(e) => e.stopPropagation()}>
-            <div className="p-8">
-              <Button
-                variant="ghost"
-                size="sm"
-                className="absolute top-4 right-4 h-10 w-10 p-0 z-10"
-                onClick={closeExpanded}
-              >
-                <X className="h-6 w-6" />
-              </Button>
+            <Button
+              variant="ghost"
+              size="sm"
+              className="absolute top-4 right-4 h-10 w-10 p-0 z-20 bg-white/80 hover:bg-white"
+              onClick={closeExpanded}
+            >
+              <X className="h-6 w-6" />
+            </Button>
 
-              {(() => {
-                const country = countries.find((c) => c.id === expandedCountry)
-                if (!country) return null
+            {(() => {
+              const country = countries.find((c) => c.id === expandedCountry)
+              if (!country) return null
 
-                return (
-                  <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-start">
-                    {/* IMAGEN DE LA OBRA */}
-                    <div className="relative">
-                      <div className="relative">
-                        <img
-                          src={country.writer.masterwork.image || "/placeholder.svg"}
-                          alt={country.writer.masterwork.title}
-                          className="masterwork-image w-full h-96 object-cover rounded-lg shadow-lg"
-                          crossOrigin="anonymous"
-                          onError={(e) => {
-                            const target = e.target as HTMLImageElement
-                            target.src = "/placeholder.svg?height=400&width=600"
-                          }}
-                        />
-                      </div>
-                      <div className="mt-4 text-center">
-                        <Badge variant="secondary" className="text-sm">
-                          {country.writer.masterwork.genre} • {country.writer.masterwork.year}
+              return (
+                <>
+                  {/* HEADER CON PROPORCIÓN ÁUREA - PARTE MENOR */}
+                  <div className="masterwork-header">
+                    <div className="text-center z-10">
+                      <div className="mb-4">
+                        <Badge variant="secondary" className="text-lg px-4 py-2 bg-amber-100 text-amber-800 font-bold">
+                          ✨ OBRA MAESTRA ✨
                         </Badge>
+                      </div>
+                      <div className="flex items-center justify-center gap-4 mb-4">
+                        <span className="text-5xl">{country.flag}</span>
+                        <div className="text-left">
+                          <h1 className="literary-title text-4xl font-bold text-gray-800 mb-2">
+                            {country.writer.masterwork.title}
+                          </h1>
+                          <p className="text-xl text-gray-600">por {country.writer.name}</p>
+                          <div className="flex gap-3 mt-3">
+                            <Badge variant="outline" className="text-sm">
+                              {country.writer.masterwork.genre}
+                            </Badge>
+                            <Badge variant="outline" className="text-sm">
+                              {country.writer.masterwork.year}
+                            </Badge>
+                          </div>
+                        </div>
                       </div>
                     </div>
 
-                    {/* INFORMACIÓN DE LA OBRA */}
-                    <div className="space-y-6">
-                      <div className="text-center lg:text-left">
-                        <div className="flex items-center justify-center lg:justify-start gap-3 mb-4">
-                          <span className="text-3xl">{country.flag}</span>
-                          <div>
-                            <h2 className="literary-title text-2xl font-bold text-gray-800">
-                              {country.writer.masterwork.title}
-                            </h2>
-                            <p className="text-gray-600">por {country.writer.name}</p>
+                    {/* Patrón decorativo de fondo */}
+                    <div className="absolute inset-0 opacity-10">
+                      <div className="absolute top-10 left-10 text-6xl">📚</div>
+                      <div className="absolute top-20 right-20 text-4xl">✍️</div>
+                      <div className="absolute bottom-10 left-20 text-5xl">🎭</div>
+                      <div className="absolute bottom-20 right-10 text-3xl">📖</div>
+                    </div>
+                  </div>
+
+                  {/* BODY CON PROPORCIÓN ÁUREA - PARTE MAYOR */}
+                  <div className="masterwork-body">
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 h-full">
+                      {/* IMAGEN DE LA OBRA */}
+                      <div className="flex flex-col justify-center">
+                        <div className="relative">
+                          <img
+                            src={country.writer.masterwork.image || "/placeholder.svg"}
+                            alt={country.writer.masterwork.title}
+                            className="masterwork-image w-full h-80 object-cover rounded-lg shadow-lg"
+                            crossOrigin="anonymous"
+                            onError={(e) => {
+                              const target = e.target as HTMLImageElement
+                              target.src = "/placeholder.svg?height=400&width=600"
+                            }}
+                          />
+                        </div>
+
+                        <div className="mt-6">
+                          <h4 className="literary-title font-semibold text-lg text-gray-800 mb-3">Temas Principales</h4>
+                          <div className="flex flex-wrap gap-2">
+                            {country.writer.masterwork.themes.map((theme, index) => (
+                              <Badge key={index} variant="outline" className="text-sm">
+                                {theme}
+                              </Badge>
+                            ))}
                           </div>
                         </div>
                       </div>
 
-                      <div className="literary-body text-gray-700 leading-relaxed">
-                        <p>{country.writer.masterwork.summary}</p>
-                      </div>
-
-                      <div>
-                        <h4 className="literary-title font-semibold text-lg text-gray-800 mb-3">Temas Principales</h4>
-                        <div className="flex flex-wrap gap-2">
-                          {country.writer.masterwork.themes.map((theme, index) => (
-                            <Badge key={index} variant="outline" className="text-sm">
-                              {theme}
-                            </Badge>
-                          ))}
+                      {/* CONTENIDO TEXTUAL */}
+                      <div className="space-y-6 flex flex-col justify-center">
+                        <div className="literary-body text-gray-700 leading-relaxed text-justify">
+                          <p>{country.writer.masterwork.summary}</p>
                         </div>
-                      </div>
 
-                      <div className="bg-blue-50 p-4 rounded-lg">
-                        <h4 className="literary-title font-semibold text-sm text-blue-800 mb-2">Sobre el Autor</h4>
-                        <div className="text-sm text-blue-700">
-                          <p>
-                            <strong>{country.writer.name}</strong> ({country.writer.period})
+                        <div className="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg border-l-4 border-blue-500 shadow-sm">
+                          <h4 className="literary-title font-semibold text-lg text-blue-800 mb-3 flex items-center gap-2">
+                            <BookOpen className="h-5 w-5" />
+                            Sobre el Autor
+                          </h4>
+                          <div className="text-blue-700">
+                            <p className="font-semibold mb-2">
+                              {country.writer.name} ({country.writer.period})
+                            </p>
+                            <p className="mb-3">{country.writer.profession}</p>
+                            <blockquote className="literary-quote italic border-l-2 border-blue-300 pl-4">
+                              "{country.writer.quote}"
+                            </blockquote>
+                          </div>
+                        </div>
+
+                        <div className="text-center bg-amber-50 p-4 rounded-lg">
+                          <p className="text-sm text-amber-800 font-medium">
+                            📍 Obra representativa de la literatura de {country.name}
                           </p>
-                          <p>{country.writer.profession}</p>
-                          <blockquote className="literary-quote italic mt-2">"{country.writer.quote}"</blockquote>
                         </div>
-                      </div>
-
-                      <div className="text-center">
-                        <p className="text-xs text-gray-500">Obra maestra de la literatura de {country.name}</p>
                       </div>
                     </div>
                   </div>
-                )
-              })()}
-            </div>
+                </>
+              )
+            })()}
           </div>
         </div>
       )}
