@@ -576,6 +576,11 @@ const countries: Country[] = [
 
 type ViewState = "flag" | "info" | "writer"
 
+// Función cn simplificada para evitar problemas con tailwind-merge
+function cn(...classes: (string | undefined | null | false)[]): string {
+  return classes.filter(Boolean).join(" ")
+}
+
 export default function CountriesApp() {
   const [mounted, setMounted] = useState(false)
   const [countryStates, setCountryStates] = useState<Record<string, ViewState>>({})
